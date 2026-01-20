@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+avalanche_env/
+.env/
+
+# Data & outputs
+data/
+results/
+wandb/
+tensorboard/
+
+# Spyder
+.spyderproject
+.spyderworkspace
+.spyder-py3/
+
+# OS
+Thumbs.db
+.DS_Store
