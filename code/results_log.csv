@@ -1,0 +1,5 @@
+date;method;ewc_lambda;mode;decay_factor;optimizer;lr;train_epochs;batch_size;AA;AIA;FM
+12/02/2026 10:20;EWC;20.0;online;0,9;SGD;0,05;50;128;0.0810;0.0803;0.7108
+12/02/2026 10:59;EWC;50.0;online;0,9;SGD;0,05;50;128;0.0827;0.079;0.6992
+12/02/2026 11:39;EWC;100.0;online;0.9;SGD;0.05;50;128;0.0791;0.0784;0.6851
+;;;;;;;;;;;
